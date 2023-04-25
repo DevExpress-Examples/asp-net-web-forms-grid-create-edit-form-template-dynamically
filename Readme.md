@@ -15,7 +15,7 @@ This example demonstrates how to implement the ITemplate interface to create an 
 
 Follow the steps below to create an edit form template dynamically:
 
-1. Use the [ITemplate](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.itemplate?redirectedfrom=MSDN&view=netframework-4.8.1) interface to create an edit form template and call the [InstantiateIn](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.itemplate.instantiatein?redirectedfrom=MSDN&view=netframework-4.8.1#System_Web_UI_ITemplate_InstantiateIn_System_Web_UI_Control_) method to populate the template with editors.
+1. Use the [ITemplate](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.itemplate?redirectedfrom=MSDN&view=netframework-4.8.1) interface to create an edit form template and call the [InstantiateIn](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.itemplate.instantiatein?view=netframework-4.8.1) method to populate the template with editors.
 
     ```csharp
     public class EdiFormTemplate:ITemplate{
