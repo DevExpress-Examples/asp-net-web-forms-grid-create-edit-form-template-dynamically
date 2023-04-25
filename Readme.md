@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to create edit form templates dynamically
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e986/)**
+**[[Run Online]](https://codecentral.devexpress.com/128538784/)**
 <!-- run online end -->
 This example demonstrates how to implement the ITemplate interface to create an edit form template dynamically.
 
